@@ -61,6 +61,8 @@ document.querySelectorAll(".uploadModal-2ifh8j").forEach(instance=>{instance.sty
 document.querySelectorAll(".footer-3mqk7D ").forEach(instance=>{instance.style.backgroundColor = "#221E36"})
 document.querySelectorAll(".wrapperAudio-1jDe0Q").forEach(instance=>{instance.style.backgroundColor = "#221E36"})
 document.querySelectorAll(".audioControls-2HsaU6").forEach(instance=>{instance.style.backgroundColor = "#221E36"})
+document.querySelectorAll(".expandedFolderBackground-2sPsd-").forEach(instance=>{instance.style.backgroundColor = "#302848"})
+document.querySelectorAll(".circleIconButton-jET_ig").forEach(instance=>{instance.style.backgroundColor = "#302848"})
 
 
 
