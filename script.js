@@ -63,6 +63,7 @@ document.querySelectorAll(".wrapperAudio-1jDe0Q").forEach(instance=>{instance.st
 document.querySelectorAll(".audioControls-2HsaU6").forEach(instance=>{instance.style.backgroundColor = "#221E36"})
 document.querySelectorAll(".expandedFolderBackground-2sPsd-").forEach(instance=>{instance.style.backgroundColor = "#302848"})
 document.querySelectorAll(".circleIconButton-jET_ig").forEach(instance=>{instance.style.backgroundColor = "#302848"})
+document.querySelectorAll(".expandedFolderIconWrapper-1xLaU-").forEach(instance=>{instance.style.backgroundColor = "#302848"})
 
 
 
