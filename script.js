@@ -46,6 +46,24 @@ document.querySelectorAll(".directionColumn-35P_nr").forEach(instance=>{instance
 document.querySelectorAll(".body-3iLsc4").forEach(instance=>{instance.style.backgroundColor = "#342C4D"})
 document.querySelectorAll(".footer-1fjuF6").forEach(instance=>{instance.style.backgroundColor = "#342C4D"})
 document.querySelectorAll(".quickMessage-2XpSaN").forEach(instance=>{instance.style.backgroundColor = "#342C4D"})
+document.querySelectorAll(".quickswitcher-3JagVE").forEach(instance=>{instance.style.backgroundColor = "#342C4D"})
+document.querySelectorAll(".input-2VB9rf").forEach(instance=>{instance.style.backgroundColor = "#342C4D"})
+document.querySelectorAll(".sidebar-2K8pFh").forEach(instance=>{instance.style.backgroundColor = "#342C4D"})
+document.querySelectorAll("#hideNshow").forEach(instance=>{instance.style.backgroundColor = "#342C4D"})
+ document.querySelectorAll(".attachment-33OFj0").forEach(instance=>{instance.style.backgroundColor = "#221E36"})
+ document.querySelectorAll(".attachment-33OFj0").forEach(instance=>{instance.style.border = "none"})
+document.querySelectorAll(".button-1ZiXG9").forEach(instance=>{instance.style.backgroundColor = "#221E36"})
+document.querySelectorAll(".autocompleteRowVertical-q1K4ky").forEach(instance=>{instance.style.backgroundColor = "#221E36"})
+document.querySelectorAll(".autocompleteInner-zh20B_").forEach(instance=>{instance.style.backgroundColor = "#221E36"})
+document.querySelectorAll(".selectorSelected-1_M1WV").forEach(instance=>{instance.style.backgroundColor = "#221E36"})
+document.querySelectorAll(".selectable-3dP3y-V").forEach(instance=>{instance.style.backgroundColor = "#221E36"})
+document.querySelectorAll(".uploadModal-2ifh8j").forEach(instance=>{instance.style.backgroundColor = "#221E36"})
+document.querySelectorAll(".footer-3mqk7D ").forEach(instance=>{instance.style.backgroundColor = "#221E36"})
+document.querySelectorAll(".wrapperAudio-1jDe0Q").forEach(instance=>{instance.style.backgroundColor = "#221E36"})
+document.querySelectorAll(".audioControls-2HsaU6").forEach(instance=>{instance.style.backgroundColor = "#221E36"})
+
+
+
                                  },20)
 
 })();
